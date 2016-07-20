@@ -3,7 +3,7 @@
 body{
   font-size: 22px;
   font-family: 'Kalam', cursive;
-  background-image: url(http://hdpic.org/wp-content/uploads/2015/03/Paris-Free-HD-Background-Android-HD-Wallpaper.jpg);
+  background-image: url(bgi.jpg);
   background-size: cover;
 }
 
@@ -36,4 +36,8 @@ td{
 
 .up{
   vertical-align: top;
+}
+
+.diplome{
+  background-image: url(diplome.png);
 }
