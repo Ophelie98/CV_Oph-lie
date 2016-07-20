@@ -37,3 +37,9 @@ td{
 .up{
   vertical-align: top;
 }
+
+.diplome{
+  backgroound-image:url(diplome.png);
+width:60px;
+  
+}
