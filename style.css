@@ -1,0 +1,39 @@
+
+
+body{
+  font-size: 22px;
+  font-family: 'Kalam', cursive;
+  background-image: url(http://hdpic.org/wp-content/uploads/2015/03/Paris-Free-HD-Background-Android-HD-Wallpaper.jpg);
+  background-size: cover;
+}
+
+div{
+  width: 780px;
+  margin: auto;
+  border: 5px solid #174460;
+  border-radius: 10px;
+box-shadow: 2px 4px 3px black;
+background-color: #ffffff;
+padding: 40px;
+}
+
+h2{ border-bottom: 3px solid LimeGreen ;
+  color: #32CD32;
+}
+
+.color {
+  color: #0000FF;
+}
+
+.date {
+  float: right;
+}
+
+td{
+  padding-bottom: 20px;
+  padding-left: 20px;
+}
+
+.up{
+  vertical-align: top;
+}
