@@ -39,7 +39,5 @@ td{
 }
 
 .diplome{
-  background-image:url(diplome.png);
-width:60px;
-  
+  background-image: url(diplome.png);
 }
