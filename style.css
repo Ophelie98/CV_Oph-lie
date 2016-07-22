@@ -7,6 +7,8 @@ body{
   background-size: cover;
 }
 
+@media screen and ( min-width: 908px ) {
+
 div{
   width: 780px;
   margin: auto;
@@ -38,4 +40,4 @@ td{
   vertical-align: top;
 }
 
-
+}
