@@ -10,7 +10,7 @@ body{
 
 
 div{
-  width: 780px;
+  width: 80%;
   margin: auto;
   border: 5px solid #174460;
   border-radius: 10px;
@@ -20,6 +20,16 @@ padding: 40px;
 }
 
 @media screen and ( min-width: 908px ) {
+ 
+  div{
+  width: 780px;
+  margin: auto;
+  border: 5px solid #174460;
+  border-radius: 10px;
+box-shadow: 2px 4px 3px black;
+background-color: #ffffff;
+padding: 40px;
+}
 
 h2{ border-bottom: 3px solid LimeGreen ;
   color: #32CD32;
