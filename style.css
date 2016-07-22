@@ -3,35 +3,9 @@
 body{
   font-size: 22px;
   font-family: 'Kalam', cursive;
-  background-image: url(bgi.jpg);
-  background-size: cover;
-}
-
-
-
-div{
-  width: 50%;
-  margin: auto;
-  border: 5px solid #174460;
-  border-radius: 10px;
-box-shadow: 2px 4px 3px black;
-background-color: #ffffff;
-padding: 40px;
-}
-
-@media screen and ( min-width: 908px ) {
- 
-  div{
-  width: 780px;
-  margin: auto;
-  border: 5px solid #174460;
-  border-radius: 10px;
-box-shadow: 2px 4px 3px black;
-background-color: #ffffff;
-padding: 40px;
-}
-
-h2{ border-bottom: 3px solid LimeGreen ;
+  }
+  
+  h2{ border-bottom: 3px solid LimeGreen ;
   color: #32CD32;
 }
 
@@ -51,5 +25,28 @@ td{
 .up{
   vertical-align: top;
 }
+
+
+
+
+
+@media screen and ( min-width: 908px ) {
+ body{
+    background-image: url(bgi.jpg);
+    background-size: cover;
+    font-size: 22px;
+    font-family: 'Kalam', cursive;
+ }
+ 
+  div{
+  width: 780px;
+  margin: auto;
+  border: 5px solid #174460;
+  border-radius: 10px;
+box-shadow: 2px 4px 3px black;
+background-color: #ffffff;
+padding: 40px;
+}
+
 
 }
