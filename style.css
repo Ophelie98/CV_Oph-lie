@@ -31,21 +31,22 @@ td{
 
 
 @media screen and ( min-width: 908px ) {
+
  body{
     background-image: url(bgi.jpg);
     background-size: cover;
     font-size: 22px;
     font-family: 'Kalam', cursive;
- }
+     }
  
   div{
   width: 780px;
   margin: auto;
   border: 5px solid #174460;
   border-radius: 10px;
-box-shadow: 2px 4px 3px black;
-background-color: #ffffff;
-padding: 40px;
+  box-shadow: 2px 4px 3px black;
+  background-color: #ffffff;
+  padding: 40px;
 }
 
 
