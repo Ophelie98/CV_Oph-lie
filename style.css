@@ -7,7 +7,7 @@ body{
   background-size: cover;
 }
 
-@media screen and ( min-width: 908px ) {
+
 
 div{
   width: 780px;
@@ -18,6 +18,8 @@ box-shadow: 2px 4px 3px black;
 background-color: #ffffff;
 padding: 40px;
 }
+
+@media screen and ( min-width: 908px ) {
 
 h2{ border-bottom: 3px solid LimeGreen ;
   color: #32CD32;
